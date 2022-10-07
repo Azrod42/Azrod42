@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently studying at 42 Nice<br>🌱 I'm currently learning C
+🎮 Former professional player for Millenium<br>📝 Worked 4 years in esport<br>🔭 I'm currently studying at 42 Nice🌱 I'm currently learning C<br>
 
 
 ## 🌐 Socials:
