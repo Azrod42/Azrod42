@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎮 Former professional player for Millenium<br>📝 Worked 4 years in esport<br>🔭 I'm currently studying at 42 Nice<br>🌱 Currently learning C
+🎮 Former Fortnite player<br>📝 Worked 4 years in esport<br>🔭 I'm currently studying at 42 Nice<br>🌱 Currently learning C
 
 
 ## 🌐 Socials:
