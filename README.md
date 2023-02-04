@@ -10,11 +10,5 @@
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=azrod42&theme=tokyonight&hide_border=false)<br/>
-
-###  Random Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-
