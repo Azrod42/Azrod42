@@ -1,5 +1,5 @@
 # 💫 About Me:
-📝 Worked 4 years in esport<br>🔭 I'm currently studying at 42 Nice<br>🌱 Currently learning C++
+📝 Worked 4 years in esport<br>🔭 I'm currently studying at 42 Nice<br>🌱 Currently learning web dev
 
 
 ## 🌐 Socials:
