@@ -1,6 +1,5 @@
 
-Portfolio :<br>https://portfolio.tsorabel.dev/
-
+Visit my [Portfolio](https://portfolio.tsorabel.dev)
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/A_Azrod_FR) 
