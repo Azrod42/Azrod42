@@ -1,5 +1,5 @@
 
-Visit my [Home](https://cealum.dev)
+Visit my [Home](https://cealum.dev/en)
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/A_Azrod_FR) 
